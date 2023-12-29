@@ -1,0 +1,46 @@
+Size of train set: 2000
+Size of test set: 400
+Size of vocab:  16021
+data_label_onehot_matrix.shape:  (2000, 5)
+The label of the first three documents
+[4 2 3]
+
+The first three rows of data_label_onehot_matrix
+[[0. 0. 0. 1. 0.]
+ [0. 1. 0. 0. 0.]
+ [0. 0. 1. 0. 0.]]
+label_freq.shape: (5,)
+Label	Frequency
+1	173.0
+2	188.0
+3	243.0
+4	593.0
+5	803.0
+P_y.shape:  (5,)
+Label	Prior probability
+1	0.08678304239401496
+2	0.0942643391521197
+3	0.12169576059850375
+4	0.29625935162094763
+5	0.400997506234414
+train_data_matrix.shape:  (2000, 16021)
+train_data_matrix.transpose().shape:  (16021, 2000)
+data_label_onehot_matrix.shape:  (2000, 5)
+P_y.shape:  (5,)
+word_freq.shape: (16021, 5)
+P_xy.shape (16021, 5)
+P_xy[:3, :]: 
+P_xy.shape:  (16021, 5)
+log_P_y.shape:  (1, 5)
+log_P_xy.shape:  (16021, 5)
+log_P_dy.shape:  (2000, 5)
+log_P.shape:  (2000, 5)
+pred.shape:  (2000,)
+log_P_y.shape:  (1, 5)
+log_P_xy.shape:  (16021, 5)
+log_P_dy.shape:  (400, 5)
+log_P.shape:  (400, 5)
+pred.shape:  (400,)
+Train Accuracy: 0.8565
+Test Accuracy: 0.5275
+Test Accuracy: 0.5275

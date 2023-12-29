@@ -1,0 +1,1225 @@
+j ai ans .
+je suis triste .
+je suis occupee .
+je suis libre !
+je suis paresseuse .
+j en suis sure .
+il est malade .
+je suis bon .
+je suis faible .
+je suis arme .
+je suis guerie .
+je pars maintenant .
+je suis chanceuse .
+excusez moi .
+je suis dure a cuire .
+il est ici !
+il est fauche .
+je suis fatigue !
+je mange .
+je suis humble .
+je me sens seul .
+je suis reposee .
+je suis sournois .
+elle est occupee .
+nous sommes quittes .
+nous sommes riches .
+vous etes grands .
+vous etes triste .
+c est un beau gosse .
+il est blinde .
+je suis mieux .
+je suis tout a fait pret .
+je suis prudente .
+je suis au regime .
+je suis meticuleux .
+j ai la frousse .
+je ne suis pas un menteur .
+je suis patiente .
+je suis retraite .
+je suis bourree .
+je suis gavee .
+je suis touchee .
+je gagne .
+ils sont mauvais .
+nous sommes seuls .
+nous sommes en train de mourir .
+nous sommes desolees .
+vous etes grande .
+vous etes justes .
+tu es bonne .
+vous etes paresseuses .
+vous etes dingues !
+tu es grossier .
+vous etes sauve .
+vous etes faible .
+il n est pas a l interieur .
+il est tellement mignon !
+je suis en train de travailler .
+je suis toubib .
+je suis pretre .
+j ai tout termine .
+je suis divorce .
+je suis libre maintenant .
+je suis ingenu .
+je ne suis pas sourd .
+je ne suis pas chez moi .
+je ne suis pas grande .
+je suis puissante .
+je me suis amendee .
+je suis si fatigue !
+je suis le meilleur .
+je suis consciencieuse .
+je suis impartial .
+elle est chancarde .
+elle se leva .
+ils sont sympa .
+elles sont libres .
+elles sont a moi .
+nous sommes une equipe .
+nous sommes condamnes .
+nous sommes creves .
+nous essayons .
+tu joues au chef .
+tu es sale .
+vous etes matinal .
+vous etes en premier .
+tu es malpoli !
+vous etes naives .
+t es plante .
+vous etes durs .
+vous etes jeune .
+il n est pas fou .
+c est un aine .
+il est apres mes fesses .
+ce n est pas un saint .
+il est trop occupe .
+je suis japonais .
+je suis nouveau ici .
+je suis enseignante .
+je suis toute a vous .
+je suis beau .
+j en suis convaincu .
+je suis epuise .
+je suis chez moi tom .
+je suis intrigue .
+je ne fais pas partie de ses admirateurs .
+je ne suis pas folle .
+je ne suis pas naif .
+je suis observateur .
+je suis desarme .
+j ai tellement faim .
+je suis trop saoul .
+elle est francaise .
+c est une beaute .
+ils sont en colere .
+elles sont fauchees .
+elles sont en avance .
+elles sont fatiguees .
+nous sommes perplexes .
+nous sommes ennemies .
+nous souffrons .
+nous ne sommes pas folles .
+nous sommes choquees .
+nous sommes affames .
+nous sommes touches .
+nous sommes inutiles .
+tu es saoul !
+tu es en train de mentir .
+tu es un binoclard .
+vous etes brillant .
+vous etes ruse .
+tu es sinistre .
+vous etes avide .
+tu plaisantes !
+tu es jolie .
+tu es endormi .
+vous etes sournoises .
+il est en faillite .
+il est quelque peu timide .
+c est un hors la loi .
+il ne s y rend pas .
+je suis professeur .
+je suis creve .
+je ne suis pas en service aujourd hui .
+je suis ministre .
+je suis un vieil homme .
+je suis fiable .
+je suis fascine .
+je suis heureux ici .
+je suis interesse .
+je suis methodique .
+je ne suis pas endormie .
+je ne plaisante pas .
+je ne suis pas endormi .
+je suis a court d essence .
+je suis toujours occupe .
+je me deshabille .
+je suis vegetarienne .
+je suis tres contrariee .
+elle a tire avec une arme .
+c est un ange .
+elle parle trop fort .
+ils arrivent .
+nous sommes medecins .
+nous sommes toutes la .
+nous avons fini .
+nous nous en sortons .
+nous ne sommes pas perdues .
+nous sommes obeissantes .
+nous partons a la pension .
+nous sommes les meilleures .
+vous etes des idiots .
+tu es un voleur .
+vous etes incroyables .
+tu es prudente .
+tu es imprudent .
+vous etes amoureuses .
+vous etes invitee .
+vous etes mon patron .
+vous n etes pas grosses .
+t es remontee .
+tu es si mechante .
+je vous en prie .
+il est peintre .
+il est en conge aujourd hui .
+il est jardinier .
+il est mon epoux .
+il est photogenique .
+je suis dans le petrin .
+je suis accro a la tele .
+je suis femme au foyer .
+je suis aventureuse .
+je fais la fete .
+je me sens en forme .
+je deviens folle .
+je suis introvertie .
+je ne suis pas une enfant .
+je ne me dispute pas .
+je ne suis pas nerveux .
+je ne reste pas .
+je persevere .
+je suis prete pour partir .
+je suis tellement perplexe .
+j en ai ras le bol .
+j ai tres faim .
+je suis votre amie .
+elle est medecin .
+elle le sermonna .
+elle l a poignarde .
+elle est tres grande .
+ils sont en train de se disputer .
+ils sont nerveux .
+elles sont similaires .
+ils sont trop gros .
+nous sommes freres .
+nous sommes flexibles .
+nous sommes tous fous .
+nous sommes comediens .
+nous sommes differentes .
+nous sortons .
+nous sommes des nouveaux venus .
+nous ne sommes pas contents .
+nous sommes impuissantes .
+nous sommes endurantes .
+nous sommes des survivants .
+nous sommes tres occupees .
+tu es le plus grand .
+tu es une menace .
+tu es un idiot .
+vous etes arrogantes .
+tu triches .
+tu es fou .
+vous etes fidele .
+vous etes pardonnes .
+vous etes mon ennemi .
+vous n etes pas mortes .
+tu es puissant .
+tu es agite .
+vous etes tellement difficiles !
+vous etes si gentils !
+vous etes talentueux .
+vous etes trop bruyant .
+tu es trop lent .
+il est en pyjama .
+il est encore ici .
+c est un tenancier de bar .
+c est un adulte .
+il a la grippe .
+il n est pas a la maison .
+il est pret a partir .
+il est ton ami .
+je suis americaine .
+je suis actuellement en service .
+j ai tres faim .
+j ai un peu faim .
+je suis tres desorientee .
+je suis toujours de mauvaise humeur .
+je suis a vos cotes .
+je suis plutot heureux .
+je viens de croatie .
+je suis assez heureuse .
+je ne suis qu un enfant .
+je ne suis pas un mendiant .
+je ne suis pas en train de compter .
+je ne suis pas comme vous .
+je ne transpire pas .
+je suis assez en colere .
+je suis vraiment contente .
+j ai toujours faim .
+j ai tres soif .
+elle est etudiante .
+elle fume beaucoup .
+ce n est pas une menteuse .
+elles sont medecins .
+ils ont tous disparu .
+ils sont tous dingues .
+ils sont si droles .
+ce sont des traitres .
+nous avons tous peur .
+nous avons tous deux raison .
+nous descendons .
+nous sommes historiens .
+nous sommes sauveteurs .
+nous ne sommes pas idiots .
+nous sommes cernes .
+nous sommes tres proches .
+vous etes en train de rever .
+tu arrives trop tard .
+vous etes une traitresse .
+vous etes toutes licenciees .
+tu es ambitieux .
+vous etes belles .
+vous etes courtoise .
+tu es etourdie .
+vous etes en danger .
+tu n es pas seul .
+vous n etes pas vires .
+tu es depourvue de pouvoir .
+tu es endurante .
+tu frissonnes .
+tu es trop tendue .
+tu es tres occupee .
+vous etes tres bonnes .
+tu es fort bonne .
+vous etes tres chouettes .
+tu es tres grossiere .
+tu es gravement malade .
+tu es tres avisee .
+vous etes tres avisees .
+c est un gros mangeur .
+il est physicien .
+il se fait vieux .
+il a plutot raison .
+il n est pas la en ce moment .
+il est endette jusqu au cou .
+il s en met plein les poches .
+il est aux anges .
+j ai peur de m y rendre .
+je suis dans la maison .
+je suis en train d etudier .
+je suis un homme change .
+je suis une nouvelle etudiante .
+je suis deja prete .
+je suis disponible maintenant .
+je suis observe .
+j en ai fini de toi .
+je creve de froid .
+j en suis heureux .
+je suis pour ainsi dire heureux .
+je ne suis pas soldat .
+je ne suis pas dangereux .
+je ne suis pas comme elles .
+je ne suis pas encore prete .
+je ne suis pas tres occupe .
+je n ai plus de souffle .
+j en ai vraiment marre de mentir .
+je suis encore mariee .
+je suis completement saoul .
+elle est en colere apres vous .
+elle parle tout haut .
+c est ma fille .
+ils sont tous morts .
+elles ne sont pas seules .
+ils sont differents .
+elles ne sont pas satisfaites .
+nous sommes australiens .
+nous sommes pour ainsi dire pretes .
+nous sommes deja vieux .
+nous nous en sortons tres bien .
+on va y aller .
+nous sommes nouveaux en ville .
+nous ne sommes pas des tueuses .
+nous ne sommes pas serieuses .
+nous sommes dans les temps .
+nous sommes tout a fait seules .
+nous sommes pleins de ressources .
+vous etes un etudiant .
+vous etes belles .
+vous etes sur mon chemin .
+tu es tres riche .
+tu es un bon gamin .
+tu es un survivant .
+tu es a nouveau de retour .
+tu es degoutant .
+vous etes libre de vous en aller .
+vous etes incroyables .
+tu n es pas normal .
+tu es productive .
+vous avez raison tom .
+tu es le chef .
+tu es la maitresse .
+tu es la doyenne .
+c est vous la doyenne .
+c est vous les proprietaires .
+vous etes trop maigrichons .
+tu es tres courageux .
+tu es fort courageux .
+vous etes fort drole .
+vous etes tres vif .
+vous etes tres timides .
+vous etes tres craintifs .
+tu es tres contrarie .
+vous etes fort contraries .
+c est un homme simple .
+il est en train de dejeuner .
+c est ici qu il joue .
+il est riche maintenant .
+c est quelqu un de bien .
+il s approche .
+il est indisponible .
+il est encore au travail .
+j adore la musique .
+je ne suis pas encore pret .
+je suis un peu bourree .
+je suis desole mais je ne peux pas .
+je suis chez tom .
+je m ennuie a mourir .
+j ai faim .
+je suis content d etre un homme .
+me voila fin pret .
+je ne suis qu un touriste .
+je te laisse partir .
+je ne sors pas avec tom .
+je ne suis pas assez vieux .
+je ne suis pas si chanceuse .
+je suis en train de lire un livre .
+je suis toujours membre .
+je te soutiens .
+j utilise cette tasse .
+je suis en train d ecrire un bouquin .
+elle est assez fachee .
+elle sourit avec bonheur .
+elle est en reunion .
+ils sont extenues .
+ils sont tous coupables .
+elles sont jetables .
+ce ne sont que des mots .
+ils ne viennent pas .
+nous sommes des gens occupes .
+nous sommes presque pretes .
+nous contribuons .
+nous sommes en lune de miel .
+nous n en avons pas encore termine .
+nous n en sommes pas encore sures .
+nous sommes vraiment saouls .
+nous sommes surs de cela .
+nous sommes tres excitees .
+vous etes libres de partir .
+tu n es pas invite .
+t es un gros nounours .
+vous etes bon menteur .
+vous etes tous invites .
+tu es idiote .
+vous etes extraverti .
+tu es branche .
+vous etes ma princesse .
+vous n etes pas contusionnees .
+vous n etes pas comme moi .
+ton temps est ecoule .
+tu es plein de ressources .
+tu as tellement de talent !
+tu es encore jeune .
+quelle menteuse vous faites !
+vous etes la professeur .
+c est vous la professeur .
+c est toi l enseignante .
+vous etes depourvu d ambition .
+vous etes tres astucieuses .
+vous etes fort habile .
+tu es tres direct .
+vous etes fort solitaires .
+c est un bon ecrivain .
+il a tendance a oublier .
+il fait plus de kilos .
+il est tres beau .
+il est un peu rouille .
+il fait de son mieux .
+il est connu pour cela .
+il est vraiment egoiste .
+je m ennuie a en mourir .
+je suis comme ma mere .
+pour une fois j ai raison .
+moi aussi je suis un debutant .
+je suis un etranger ici .
+je suis innocent .
+je suis sur la paille et fatigue .
+je meurs de soif .
+je suis content d etre ici .
+je vais maintenant y aller .
+je suis incroyablement occupe .
+je suis plus qu heureux .
+je ne suis pas occupe du tout .
+je ne suis pas decouragee .
+je ne te quitte pas .
+je ne suis pas vraiment occupe .
+je ne suis pas ton ami .
+je prie pour tom .
+je suis triste sans vous .
+je suis tellement fier de vous .
+je suis en train d etudier le francais .
+je suis trop vieille pour tom .
+j essaie de dormir .
+c est un moulin a parole .
+elle travaille dur .
+elle achete toujours du lait .
+c est une vraie commere .
+elle est obstinee .
+elles sont mes amies .
+elles sont toutes en train d attendre .
+elles sont plutot marrantes .
+nous sommes de bonnes amies .
+nous en avons completement termine ici .
+nous sommes conscientes de cela .
+nous sommes en train de manger des pommes .
+nous commencons a fatiguer .
+nous ne sommes pas impressionnes .
+nous sommes a court de cafe .
+nous sommes les gentils .
+tu es un de ces menteurs !
+tu es tout ce que j ai .
+tu es un grand maintenant .
+vous etes mignonnes dans votre genre .
+tu n es pas medecin .
+vous n en avez pas termine .
+vous etes tire d affaire .
+tu dramatises .
+tu es tellement impatiente .
+c est vous l ingenieur .
+tu es trop confiante .
+vous etes fort curieuses .
+vous etes fort effronte .
+vous etes fort serviable .
+vous etes tres elegants .
+tu es avec des amies .
+c est un bel homme .
+il est toujours avec moi .
+il est cool pas vrai ?
+il est pareil a lui meme .
+il n est pas en service aujourd hui .
+il porte des gants .
+c est une boule de nerfs .
+il est deja marie .
+il fait des progres .
+il n est pas a sa place .
+il est tres protecteur .
+je mange une pomme .
+je suis mauvais en dessin .
+je suis branche windows .
+je suis depourvu d idees .
+j appelle de l aide .
+je desespere de vous voir !
+je suis ami avec lui .
+je suis content de vous voir .
+je vais voir tom .
+je suis la pour vous aider .
+je suis amoureux de toi .
+je vis dans une ville .
+je ne suis pas vegetarienne .
+je ne suis pas desorganisee .
+je ne suis pas belle .
+je ne m enfuis pas .
+je ne vais pas prendre parti .
+je ne suis pas votre frere .
+je suis fier de vous toutes .
+je suis juste derriere toi .
+je n en peux plus de combattre .
+je suis plus elegante que vous .
+je suis plus astucieuse que vous .
+je suis desolee de vous avoir blesse .
+je suis desole d entendre ca .
+je suis fatigue de danser .
+je suis tres a l aise .
+c est une fille blonde .
+elle est au premier rang .
+elle n est jamais a l heure .
+elle m a servi un cafe .
+elle mange comme deux .
+elle est desormais medecin .
+ils peuvent chanter .
+ce sont toutes des touristes .
+elles sont juste pour vous .
+ce ne sont pas mes regles .
+nous sommes du meme tonneau .
+nous sommes attaques .
+nous nous rechauffons .
+nous avons de la visite .
+nous ne sommes pas des terroristes .
+nous sommes parfaitement en securite .
+nous ne sommes pas encore surs .
+nous sommes votre dernier espoir .
+tu n es pas un lache .
+tu es allemand n est ce pas ?
+vous etes un petit menteur .
+vous etes consciencieuse .
+tu vas trop loin .
+ce n est pas toi qui dirige .
+tu n es pas des notres .
+vous n etes pas tres bon .
+vous etes un opportuniste .
+tu es pile a l heure .
+quelle idiote vous etes !
+tu es le bouc emissaire .
+tu es tres genereuse .
+vous etes tres talentueuse .
+tu es pleine de talent .
+c est un homme de raison .
+il a peur de la mort .
+il est bon cuisinier .
+c est un fou de musique .
+il est pauvre mais heureux .
+il est tres gentil avec moi .
+c est un menteur notoire .
+il est parti au maquis .
+il ne fait pas partie de notre groupe .
+c est un type tellement sympa !
+je suis content de t aider .
+je suis ici pour affaires .
+je suis plus petit que vous .
+je suis etudiant .
+je souffre de vertige .
+je suis conscient de tout cela .
+je te fais une faveur .
+je me deshabille .
+je suis content que tu sois en avance .
+je vais avoir besoin de vous .
+je suis a la maison tout le temps .
+je te le laisse .
+je ne suis pas une toxico .
+je ne suis pas un enfant unique .
+je n en suis pas entierement sure .
+je ne suis pas la pour me bagarrer .
+je ne suis pas une commere .
+je n en suis pas trop convaincu .
+je suis en pause dejeuner .
+je suis en train de lire ce livre .
+je suis desolee d avoir dit cela .
+je suis sur que c est mal .
+j ai trop sommeil pour manger .
+je suis vraiment desolee d avoir menti .
+elle est toujours a fumer .
+elle est d une nature faible .
+elle a loupe le coche .
+elle est trop vieille pour toi .
+ce sont des etudiants capables .
+ils sont au jardin .
+ce ne sont pas des criminels .
+ils ne mijotent rien de bon .
+nous sommes completement egarees .
+nous en avons presque fini .
+nous sommes tellement fieres de vous !
+t es une bonne fille .
+tu es un peu bizarre .
+vous etes meilleur que moi .
+tu vas te remettre .
+vous etes dans la merde .
+tu ne m aides pas .
+tu n es pas si maline .
+vous n avez plus d excuses .
+tu me fais marcher .
+vous etes vraiment egoistes .
+vous etes plus grand que moi .
+vous entrez dans la trentaine .
+vous etes tres emotifs .
+tu as vraiment beaucoup de chance .
+vous etes tres sceptique .
+il est completement idiot .
+il est borgne .
+il est plein d ambition .
+il est a velo .
+c est un homme de parole .
+il achete un vieux chapeau .
+il ne sait pas jouer en equipe .
+il est toujours cloue au lit .
+je me brosse les dents .
+je ne suis pas fier de ca .
+je suis enseignant en japonais .
+je suis allergique au gluten .
+je te demande de rester .
+je suis occupe pour le moment .
+je suis fascine par les chats .
+je suis heureux de vous avoir invitees .
+je me rejouis que vous soyez venu .
+je vais travailler dur .
+je suis terrible avec les enfants .
+je vis en ville .
+je ne suis pas votre ami .
+je ne vais pas y repondre .
+je ne me rends nulle part .
+je ne suis pas pret pour ca .
+je ne parle pas avec toi .
+je ne fais que mon devoir .
+je suis pret pour demain .
+au rapport .
+j etudie avec beaucoup d assiduite .
+je suis le plus jeune enfant .
+j essaie de me rappeler .
+je me fais du souci pour eux .
+elle est coupable de fraude .
+elle est tres gentille avec nous .
+elle debuta au sommet .
+c est une fille tres chouette .
+c est une dure a cuire .
+elles sont jalouses de nous .
+ils sont tous contre moi .
+elles sont en retard comme d habitude .
+ils ne sont toujours pas en securite .
+nous sommes tous en train de dejeuner .
+nous travaillons toutes dur .
+nous enquetons a ce sujet .
+nous faisons partie de l equipe .
+vous serez toujours la bienvenue .
+en un sens tu as raison .
+vous etes l elu .
+tu es une personne merveilleuse .
+vous me mettez mal a l aise .
+vous n etes pas assez rapide .
+tu es vraiment embetant .
+vous etes timide n est ce pas ?
+tu manigances quelque chose .
+tu es fort attirante .
+il est japonais de naissance .
+il bout de colere .
+il aime l aventure .
+ce n est pas un de mes amis .
+il n est pas au bureau .
+il est toujours alite .
+c est un jeune homme adorable .
+il est en colere apres le monde .
+il est bon en calcul .
+il est en train de dessiner une pomme .
+je suis aime de ma mere .
+j ai un petit peu faim .
+je suis une citoyenne americaine .
+je le fais pour eux .
+je me sens bien mieux .
+je vais recommencer .
+cela me depasse completement .
+je recherche une maison .
+je ne le prone pas .
+je ne suis pas un bon pecheur .
+je ne vais pas payer pour ca .
+je n en suis pas sure .
+je suis assez grand pour boire un coup .
+je suis vraiment decu .
+je suis si fier de mon equipe .
+j y travaille encore .
+je suis fatigue d etre malade .
+je suis tres occupe cette semaine .
+c est une femme magnifique .
+elle porte une robe verte .
+elle est vraiment intelligente .
+elle parle bien espagnol .
+elle fait rechauffer l eau .
+elles sont toutes tres heureuses .
+ils sont tous en vacances .
+ils te cherchent .
+elles se trouvent juste derriere moi .
+ils vous attendent .
+nous sommes fermes le lundi .
+nous ne sommes pas encore desesperees .
+on vend la maison .
+vous etes en lieu sur .
+vous avez vraiment de la chance .
+tu conduis trop vite .
+tu es ma meilleure cliente .
+ca ne te reussit pas .
+tu n aides pas tom .
+vous n etes pas les bienvenues ici .
+vous avez raison bien sur .
+vous etes plus grandes que moi .
+tu es dans une propriete privee ici .
+vous etes pleins de ressources .
+c est un homme de caractere .
+il est tres prudent .
+il est connu de tous .
+il est plus fort que jamais .
+il embrasse sublimement .
+il a la cinquantaine bien tassee .
+il est souvent en retard au travail .
+je suis sur le point de quitter ici .
+je ne suis pas du tout romantique .
+je suis certaine de son succes .
+je suis desireux de vous aider .
+je suis membre de l equipe .
+je suis completement epuise .
+je suis enchantee d etre ici .
+je suis contente de te voir ici .
+je vais etre mariee .
+je vais a la station .
+je te quitte demain .
+je ne suis pas quelqu un de violent .
+je n enfreins pas la loi .
+je ne vais pas faire ca aujourd hui .
+je ne parie plus .
+je ne suis plus inspiree .
+je ne suis pas sur d aimer ca .
+je suis de vos eleves .
+je suis vraiment heureuse pour toi .
+je suis si heureux que tu sois ici .
+je me mets a t apprecier .
+je suis surprise de te voir .
+je songe au projet .
+j essaie d economiser de l argent .
+je suis dispose a presenter mes excuses .
+elle est affreusement mauvaise en cuisine .
+elle est hors sujet .
+elle cria de terreur .
+c est une femme determinee .
+elle n est pas aussi agee que marie .
+ils ont peur de la mort .
+elles sont tres compatibles .
+ils sont juste derriere toi .
+vous les terrifiez .
+nous sommes sous son commandement .
+notre temps est presque ecoule .
+nous sommes juste comme des freres .
+nous sommes a bord du mauvais train .
+tu es tout pour moi .
+vous etes tres indelicat .
+tu es un danseur horrible .
+vous etes seuls n est ce pas ?
+tu fais tout ce que tu peux .
+tu es comme une vieille femme .
+tu n es pas de mes amis .
+tu n es pas ma copine .
+tu es vraiment incroyable .
+c est pour vous que je suis venue .
+il est methodique .
+il est engage dans l enseignement .
+il est assez age pour boire .
+il marche tres lentement .
+il est frais emoulu de l ecole .
+il n est pas plus fort que moi .
+j agis pour mon pere .
+je vais m habiller .
+je suis en vacances cette semaine .
+je suis en train d arroser les fleurs .
+je suis assez bonne etudiante .
+je perds tout le temps mes cles .
+je demande ce que tu en penses .
+je suis paye pour faire ca .
+je compte sur ton aide .
+je fais le bon choix .
+je me sens plutot fatiguee .
+je suis heureux que vous veniez .
+je me rejouis que vous vous portiez bien .
+je vais etre enseignant .
+je vais cuisiner pour toi .
+je suis heureux de te voir ici .
+je la ferme .
+je suis beaucoup plus jeune que vous .
+je ne gobe pas votre histoire .
+je ne vais pas manger ceci .
+je ne suis pas en forme maintenant .
+je ne suis pas tellement bon en tennis .
+je n y pense pas .
+je t offre un choix .
+je suis en train de lire le journal .
+je suis tellement perplexe en ce moment .
+je suis desole de t avoir crie apres .
+je reste avec mon oncle .
+je suis sur que tom a ete implique .
+je vous dis la verite .
+je tente de vous parler .
+j attends ma mere .
+on s amuse avec elle .
+ce n est pas une chanteuse ordinaire .
+elle m a montre sa nouvelle voiture .
+elle est belle et intelligente .
+ils sont chanceux d etre en vie .
+nous n avons pas encore tres faim .
+nous allons dans la mauvaise direction .
+nous ne sommes plus amis .
+nous sommes dos au mur .
+vous etes fatigue n est ce pas ?
+vous etes un merveilleux ami .
+tu vas gagner aujourd hui .
+t es pas aussi malin que moi .
+vous n etes pas rationnel .
+vous n etes pas fatiguees si ?
+vous n etes pas vous meme aujourd hui .
+tu es trop jeune pour te marier .
+vous etes fort elegant .
+vous etes tres raffinees .
+vous etes tres comprehensive .
+c est un joueur invetere .
+c est un professeur d anglais .
+il est negligent en matiere d argent .
+il n a pas entierement tort .
+il etudie l agronomie .
+il est lyceen .
+il a hate de vous parler .
+il se trouve quelque part dans le parc .
+je ne suis pas d humeur a blaguer .
+j en ai assez d entendre ca .
+je te le demande en tant qu ami .
+je lance un signal de detresse .
+je me rejouis que vous puissiez venir .
+je vais piquer un somme .
+je vais dire ca a tom .
+j habite avec mes parents .
+je ne viens pas d une famille riche .
+je ne suis pas invitee a des fetes .
+je ne suis pas encore si desesperee .
+je dis seulement la verite .
+je suis desole a propos de hier soir .
+je suis sur qu il partira tot .
+je suis mince mais pas trop mince .
+je suis tres inquiet a votre sujet .
+elle est occupee a preparer le diner .
+ce n est rien qu une enfant .
+elle a mieux chante que d ordinaire .
+elle a etabli un nouveau record du monde .
+elle restait la toute seule .
+elle commence a m agacer !
+ils ont perdu l esprit .
+nous sommes convaincues de son succes .
+nous sommes conscients du probleme .
+nous allons finir ceci .
+nous ne sommes pas du coin .
+nous sommes maintenant en phase .
+vous vous leurrez .
+vous etes plus grandes qu elle .
+tu es un excellent professeur .
+tu souffres n est ce pas ?
+tu n es plus un bebe .
+vous faites partie du probleme .
+tu es supposee faire ca .
+tu fais l objet d une enquete .
+vous etes inquiete n est ce pas ?
+c est un conducteur tres prudent .
+il creuse sa propre tombe .
+il est plus ruse que sage .
+son travail lui plait .
+c est le patron du marketing .
+c est un esprit independant .
+il fume plus que jamais .
+je vais acheter une nouvelle voiture .
+je n en suis pas certain .
+je suis tienne et tu es mien .
+j ai moi meme un petit peu soif .
+je suis actrice non mannequin .
+je suis excite et pret a partir .
+vous allez beaucoup me manquer .
+j ai du mal a me concentrer .
+votre travail m interesse .
+je suis bien plus vieux que vous .
+je ne suis pas libre tout de suite .
+je ne suis pas assez bonne pour toi .
+je ne suis pas tres bon en francais .
+je la vois ce soir .
+je suis desolee mon pere est elimine .
+je suis sure qu elle partira tot .
+je suis reconnaissant envers mes amis .
+je suis bien consciente des risques .
+elle a certainement plus de quarante ans .
+elle maitrise le francais .
+elle porte une robe bleue .
+elle ne devrait pas y aller seule .
+elle etudie plus que jamais .
+ils sont a peu pres du meme age .
+ils se cachent dans les bois .
+nous attendons un bebe .
+nous sommes toutes de tres bonnes joueuses .
+nous sommes maries .
+nous travaillons a l instant .
+vous etes redevable de la dette .
+vous n etes pas aussi petit que moi .
+tu demandes a la mauvaise personne .
+tu es nouveau ici n est ce pas ?
+tu n y es pas autorisee .
+tu n es pas mariee si ?
+tu ne penses pas clairement .
+vous etes vraiment tete en l air .
+vous etes trop dur avec vous .
+il est habitue au travail .
+il ne fait que se plaindre .
+il a des chances de gagner le jeu .
+il n est pas du tout un gentleman .
+il est present a la reunion .
+c est le plus vieux d entre eux .
+il est ce qu on appelle un lettre .
+il a commence a ecrire un roman .
+il vous attend chez moi .
+j aime la cuisine australienne .
+je ne suis pas concerne par ceci .
+je suis sure de ma decision a .
+je m amuse vraiment .
+je crains que tom ne se perde .
+je suis inquiet pour l avenir .
+ma curiosite commence a s aiguiser .
+je le fais malgre toi .
+je donne mes vieux livres .
+je me rejouis de vous avoir finalement rencontre .
+je suis ravi que vous ayez souleve ca .
+je me rejouis que vous vous portiez mieux .
+je vais etre votre institutrice .
+je vais reflechir a ca .
+je vais epargner plus d argent .
+je ne fais qu une suggestion .
+je ne te donnerai aucun argent .
+je ne vais rien te dire .
+je garde ce siege pour tom .
+je suis desole si je vous ai derange .
+vous m intimidez toujours .
+je suis fatigue d avoir beaucoup marche .
+j essaye de trouver un nouveau travail .
+je m inquiete pour l avenir .
+elle est toujours soigneusement vetue .
+elle fait partie du personnel enseignant .
+elle le vit briser la fenetre .
+elle m a parle avec le sourire .
+elle n a pas encore entendu la nouvelle .
+ils militent contre les violences aux animaux .
+nous sommes responsables en cas de degats .
+nous sommes folles l une de l autre .
+nous sommes ici avec nos enfants .
+tu es aussi grande que ma s ur .
+vous etes presque aussi grand que tom .
+vous etes deprimee n est ce pas ?
+vous etes impressionne n est ce pas ?
+vous etes exactement comme votre mere .
+vous ne dites pas la verite .
+vous etes inhabituellement calmes aujourd hui .
+il a peur de mourir .
+il est depourvu de sentiments humains .
+il est fier de sa collection .
+il n est pas le gerant en fait .
+il est attire par les negresses .
+je suis un etudiant de cette ecole .
+je suis decu par les nouvelles .
+je verrai mon oncle demain .
+j ai environ le meme age que vous .
+je ne suis certainement pas votre ami .
+je me fais construire une nouvelle maison .
+je suis content que ca vous rende heureux .
+je vais a hanovre avec toi .
+jouer du piano est mon point fort .
+j ai plus d experience que tom .
+je ne m inquiete pas trop pour tom .
+je regrette vraiment d entendre ca .
+je suis desolee de vous avoir mal compris .
+je suis desolee si je vous ai effrayes .
+je fais encore partie de cette famille .
+je suis sur que nous pouvons resoudre cela .
+j ai la meme taille que tom .
+je suis accoutume a travailler toute la nuit .
+elle est aussi belle qu une rose .
+elle est satisfaite par la robe .
+elle dit qu elle voit des choses .
+elle est toujours occupee en semaine .
+elle est generalement a la maison le dimanche .
+ils ne vont pas aider tom .
+on a vraiment besoin d eau .
+nous allons avoir besoin d aide .
+nous ne sommes pas encore certaines de ca .
+nous sommes tres nerveux a ce sujet .
+tu es le plus grand de nous tous .
+vous faites un excellent travail .
+tu ne vises pas assez haut .
+tu preches des convaincus .
+tu es a court d options .
+vous etes celui qui m a entraine .
+tu es celle qui m a forme .
+c est un garcon gai et courageux .
+il a peur de son ombre .
+il profite de sa vie d ecolier .
+il est sujet a des crises de colere .
+il craint de commettre des erreurs .
+jamais il n a ete amoureux auparavant .
+ma patience est a bout .
+je suis sur qu il reussira .
+je crains que nous perdions la partie .
+je suis en droit a ma propre opinion .
+je suis aussi ravi de te rencontrer tom .
+je vais te dire un secret .
+je suis amoureuse de quelqu un d autre .
+je rencontre quelqu un pour dejeuner .
+je ne vais pas vous montrer ceci .
+je ne comprends rien .
+je suis satisfait des resultats .
+je suis desole si je t ai embarrassee .
+je suis desolee de vous avoir derange !
+je commence a me sentir desespere .
+tu as surement d autres talents .
+je suis tres content de vous revoir .
+je suis tres surprise de voir ca .
+elle passe a la tele ce soir .
+elle porte une bague de prix .
+elle restait proche de son mari .
+ce sont tous des enfants innocents .
+elles vont commettre des erreurs .
+nous avons fini de repondre aux questions .
+nous ne sommes pas ouvert pour thanksgiving .
+vous n etes plus les bienvenus ici .
+vous etes une femme tres seduisante .
+tu es bien plus grand que tom .
+tu en fais partie n est ce pas ?
+c est vous qui vous vous etes emballee .
+c est un membre du comite .
+il fait attention a ses manieres .
+il est assez age pour conduire une voiture .
+c est un expert a la fronde .
+il commence a se sentir desespere .
+je suis habituee a travailler dur .
+je repare le lave linge .
+veuillez m excuser de vous avoir derange .
+j ai deja beaucoup de problemes .
+je recueille de nombreuses plaintes .
+je vais te donner une lecon .
+je pars pour le canada demain .
+je ne suis pas medecin mais enseignant .
+je ne vais pas te le repeter .
+je ne le dirai pas deux fois .
+je suis satisfait de ses progres .
+je suis desole de vous avoir derange .
+je prends deux jours de conge .
+je suis tres reconnaissant pour votre aide .
+elle est inquiete pour sa securite .
+elle cherche les cles de sa voiture .
+elle a chante d une belle voix .
+c est une personne tres interessante .
+elle est inquiete pour votre securite .
+ils veulent bien nous aider .
+nous sommes tous dans la meme situation .
+nous esperons ouvrir en octobre .
+tu es toujours aussi affaire qu une abeille .
+le bleu vous va tres bien .
+tu es decu n est ce pas ?
+vous etes toujours celibataire n est ce pas ?
+c est un homme qui adore les ceremonies .
+il commence a perdre ses cheveux .
+il reste avec sa famille .
+il est tres apprecie de ses etudiants .
+il est assez vieux pour etre son pere .
+je perds patience avec toi .
+j en ai assez de ma vie monotone .
+je me fais trop vieux pour ce travail .
+je vais reecrire ce rapport .
+je suis davantage qu un joli visage .
+je suis satisfaite de sa representation .
+je suis desolee de vous deranger si souvent .
+je suis desole je ne te remets pas .
+je suis desolee ca ne se reproduira pas .
+je suis trop fatigue pour faire mes devoirs .
+elle est familiere du sujet .
+elle disait qu elle avait ete heureuse .
+elle l etouffa avec un oreiller .
+elle a promis qu elle allait m appeler .
+ce sont celles qui veulent s y rendre .
+nous parlons de nos amis .
+vous avez droit a votre opinion .
+tu n es pas censee nager ici .
+vous n etes pas en position de negocier .
+vous ne pretez meme pas attention .
+c est un monsieur .
+il n est qu un reveur .
+il n est pas content du resultat .
+il est toujours a court de liquide .
+je peux nager dans la riviere .
+je suis pret a tout faire pour vous .
+je suis sur que tu vas reussir .
+je suis impatiente de faire cela .
+je n en suis pas totalement convaincue .
+je suis desolee mais je ne comprends pas .
+je suis tres conscient du danger .
+elle ecrit constamment des lettres .
+elle devrait etre inculpee pour meurtre .
+ils sont en train de lire leurs journaux .
+nous sommes supposes connaitre les regles .
+vous etes trop jeune pour voyager seul .
+tu t embrouilles a nouveau non ?
+vous n etes plus autorisee a parler .
+tu n es pas la seule canadienne ici .
+tu es tellement belle dans cette robe !
+vous etes tres religieuse n est ce pas ?
+il est moins severe que notre professeur .
+il est cense etre chez lui aujourd hui .
+il est le president du comite .
+je crains qu il ne commette une erreur .
+je vais quitter mon emploi actuel .
+je songe a demissionner immediatement .
+je vais vous enseigner un peu de karate .
+je ne vais rien y faire .
+je suis satisfait de leur representation .
+je commence vraiment a detester boston .
+j essaye de comprendre quelque chose .
+elle apprend a conduire une voiture .
+c est une fille intelligente et independante .
+nous sommes habitues a porter des chaussures .
+on va s acheter une voiture .
+nous sommes sures que c etait un accident .
+tu n es pas cense fumer ici .
+tu as la confiance de tous .
+vous n etes pas tres organises hein ?
+il est ici pour chercher la bagarre .
+je suis tout seul dans ce pays etranger .
+je ne suis pas concerne par cette affaire .
+je suis occupe a me preparer pour demain .
+j apprends a jouer de la guitare maintenant .
+j ai trois ans de moins que tom .
+elle begaye quand elle se sent nerveuse .
+nous tentons une operation de sauvetage .
+vous etes responsable de ce que vous faites .
+il est toujours genereux envers les pauvres .
+il est partisan de la course pieds nus .
+j oublie toujours les noms des gens .
+j ai du mal a me concentrer .
+ce que vous pensez ne m interesse guere .
+je suis sur que tom viendra demain .
+elle se plaint toujours de son travail .
+elle rassemble du materiel pour un livre .
+nous sommes confrontes a quantite de problemes .
+nous tentons de reduire les depenses .
+vous n etes plus les bienvenues chez moi .
+il est critique plutot que romancier .
+c est un celebre chanteur populaire au japon .
+je suis tres interesse par des histoires .
+je vais jouer au foot apres l ecole .
+je vous ordonne de partir immediatement .
+elle a semble decue par le resultat .
+nous vous souhaitons un prompt retablissement .
+il est habitue a parler en public .
+il est professeur de biologie a harvard .
+je suis capable de faire mes propres choix .
+je suis surprise que cette machine fonctionne encore .
+elle ressemble fortement a sa grand mere .
+on apprend encore a se connaitre .
+vous etes la seule a me comprendre .
+je commence a perdre patience avec tom .
+je suis le second de trois enfants .
+nous mesurons la profondeur de la riviere .
+il est diplomate a l ambassade americaine .
+je me rejouis de te revoir .
+je suis fatigue d ecouter tes plaintes .
+nous esperons visiter boston cet ete .
+il viendra me voir demain apres midi .
+elle sourit et accepta mon petit cadeau .
+tu rales toujours apres quelque chose .
+je suis interessee par l histoire australienne .
+ils discutent de ce qu ils vont chanter .
+je suis inquiet de votre attitude irresponsable .
+il quitte narita pour hawaii ce soir .
+vous etes trop critique des defauts des autres .
+il entreprend des experiences dans son laboratoire .

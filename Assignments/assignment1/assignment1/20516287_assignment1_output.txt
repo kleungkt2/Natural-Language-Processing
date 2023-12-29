@@ -1,0 +1,38 @@
+q1: 
+1. Print the number of word tokens in the corpus:
+141576
+
+2. Print the size of the vocabulary (number of unique word tokens).
+6833
+
+3. Print the tokenized words of the first sentence in the corpus.
+['[', 'Sense', 'and', 'Sensibility', 'by', 'Jane', 'Austen', '1811', ']']
+
+q2: 
+1. Print the top 10 most common words in the romance category:
+[',', '.', 'the', 'and', 'to', 'a', 'of', '``', "''", 'was']
+
+2. Print the word frequencies:
+frequency of ring in romance: 2
+frequency of activities in romance: 1
+frequency of love in romance: 32
+frequency of sports in romance: 3
+frequency of church in romance: 29
+
+frequency of ring in hobbies: 11
+frequency of activities in hobbies: 11
+frequency of love in hobbies: 6
+frequency of sports in hobbies: 12
+frequency of church in hobbies: 1
+
+q3: 
+1. All synonymous words of the word 'dictionary':
+['dictionary', 'lexicon']
+
+2. Hyponyms of the word 'dictionary':
+[Synset('bilingual_dictionary.n.01'), Synset('desk_dictionary.n.01'), Synset('etymological_dictionary.n.01'), Synset('gazetteer.n.02'), Synset('learner's_dictionary.n.01'), Synset('pocket_dictionary.n.01'), Synset('spell-checker.n.01'), Synset('unabridged_dictionary.n.01')]
+
+3.Calculate similarities:
+Similarity of 'right_whale' and 'minke_whale': 0.25
+Similarity of 'right_whale' and 'tortoise': 0.07692307692307693
+Similarity of 'right_whale' and 'novel': 0.043478260869565216

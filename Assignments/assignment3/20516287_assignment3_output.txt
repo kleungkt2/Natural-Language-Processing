@@ -1,0 +1,19 @@
+Checking analyze_5_gram functions
+size of 5 gram feature: 175348
+
+Generating figure:
+Checking stem_three_gram_features functions
+Size of features: 2018
+Number of stored values (including explicit zeros) in train_feats_matrix:  (array([   0,    0,    0, ..., 1999, 1999, 1999], dtype=int64), array([  20,   26,   56, ..., 1936, 1966, 1992], dtype=int64))
+Checking five_fold_cross_validation functions
+training accuracy 0.625625
+validation accuracy 0.3125
+training accuracy 0.64125
+validation accuracy 0.3425
+training accuracy 0.65125
+validation accuracy 0.34
+training accuracy 0.653125
+validation accuracy 0.3275
+training accuracy 0.6475
+validation accuracy 0.345
+Average validation score:  0.3335

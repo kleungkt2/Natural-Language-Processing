@@ -1,0 +1,5 @@
+Size of features: 3870
+20/20 [==============================] - 1s 45ms/step - loss: 0.3907 - accuracy: 0.9600
+4/4 [==============================] - 0s 28ms/step - loss: 1.6991 - accuracy: 0.5575
+training loss: 0.3907288908958435 training accuracy 0.9599999785423279
+test loss: 1.699137568473816 test accuracy 0.5575000047683716
